@@ -1,0 +1,11 @@
+body{
+    text-decoration: none;
+}
+
+.list-group-item{
+    color: #333;
+}
+a {
+    text-decoration: none !important;
+    color: #333;
+  }
