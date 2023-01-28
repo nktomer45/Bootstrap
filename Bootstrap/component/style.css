@@ -3,12 +3,39 @@ body{
  
 }
 
+/* .navbar{
+    height: 70px;
+} */
+
 .logo{
+
+    background-color: rgba(2, 2, 44, 0.439);
+    border-radius: 6px;
+    padding: 5px;
 }
 
 .searchBar{
-    margin-left: 100px;
+    margin-left:11px;
     border: 12px;
+    min-width: 500px;
+    background-color: #e9e7e9;
     
 }
 
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.nav-item{
+    margin-left:21px;
+}
+
+
+.nav-item:hover{
+    background-color:  rgba(2, 2, 44, 0.439);
+    border-radius: 6px;
+}
+
+.keeptogether {
+    white-space: nowrap ;
+  }
